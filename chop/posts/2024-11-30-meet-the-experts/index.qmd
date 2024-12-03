@@ -1,0 +1,15 @@
+---
+title: "Meet the Experts"
+author: "Erik"
+date: "2024-11-30"
+categories: [CHOP]
+image: image.jpg
+---
+
+Meet the Experts, and our MC Veronika!
+
+::: {layout-ncol=2}
+![](image.jpg)
+
+![](image2.jpg)
+:::

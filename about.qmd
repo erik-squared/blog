@@ -1,0 +1,26 @@
+---
+title: "About Erik<sup>2</sup>"
+image: profile.png
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+## Engineering Notes
+I'm a data engineer / data scientist in the Philadelphia area, sharing notes on my everyday tech challenges and failures.
+
+## CHOP Advocacy
+
+I'm also actively involved in supporting the Children's Hospital of Philadelphia (CHOP) oncology department, through fundraising for their annual Parkway Run.
+
+After a series of health issues, my daughter Veronika was diagnosed at age 16 with a germinoma - a type of brain cancer. Fortunately, these types of tumors are treatable with chemotherapy and radiation. 
+
+We are so lucky to have a world-class children's hospital in our vicinity. Veronika was well cared for at CHOP - from diagnosis through to post-treatment. 
+
+It's a joy and a privilege to continue working with CHOP by participating in the Parkway Run. The run raises money for pediatric cancer research. 
+
+In 2024, Veronika was selected as one of the event's ambassadors and the 2024 run raised almost 2 million dollars!

@@ -1,0 +1,7 @@
+---
+title: "Welcome!"
+author: "Erik"
+date: "2024-11-29"
+categories: [notes]
+---
+First Engineering Notes blog post!

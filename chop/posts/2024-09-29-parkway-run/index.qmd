@@ -1,0 +1,21 @@
+---
+title: "2024 CHOP Parkway Run"
+author: "Erik"
+date: "2024-09-29"
+categories: [CHOP]
+image: image3.jpg
+---
+
+2024 Parkway Run, and Ambassador Veronika!
+
+::: {layout-ncol=2}
+![](image1.jpg)
+
+![](image2.jpg)
+
+![](image3.jpg)
+
+![](image4.jpg)
+
+![](image5.png)
+:::

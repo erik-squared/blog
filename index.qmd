@@ -1,0 +1,13 @@
+---
+title: "Erik<sup>2</sup>"
+listing:
+  contents: 
+    - notes/posts
+    - chop/posts
+  sort: "date desc"
+  categories: true
+  feed: true
+page-layout: full
+---
+
+Random stuff from an engineer...

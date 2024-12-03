@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Erik<sup>2</sup>" 
+  site-url: https://eriksquared.net
+  navbar:
+    left:
+      - text: "Engineering Notes"
+        file: notes/index.qmd
+      - text: "CHOP Parkway Run"
+        file: chop/index.qmd
+      - text: "About"
+        file: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
