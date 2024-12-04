@@ -7,6 +7,7 @@ listing:
   sort: "date desc"
   categories: true
   feed: true
+  max-description-length: 150
 page-layout: full
 ---
 
